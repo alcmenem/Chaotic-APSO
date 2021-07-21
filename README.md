@@ -23,4 +23,4 @@ Reference:
 The code is built upon XS Yang's APSO demo available at (given the github upload date):
 [2]XS Yang (2021). Accelerated Particle Swarm Optimization (APSO) (https://www.mathworks.com/matlabcentral/fileexchange/74766-accelerated-particle-swarm-optimization-apso), MATLAB Central File Exchange. Retrieved July 21, 2021.
 While APSO code and description can also be found in (and the several other editions of this book):
-[3] Xin-She Yang, Nature-Inspired Metaheuristic Algorithms, Second Edition, Luniver Press, (2010).   www.luniver.com %
+[3] Xin-She Yang, Nature-Inspired Metaheuristic Algorithms, Second Edition, Luniver Press, (2010).   www.luniver.com 
