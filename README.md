@@ -17,6 +17,7 @@ In case there is a related publication to this experiment, the README file will 
 
 The CAPSO algorithm is a proposed variant of the APSO algorithm, and it utilizes chaotic maps for parameter tuning, and useful randomness.
 Reference:
+
 [1] Gandomi, A.H.; Yun, G.J.; Yang, X.S.; Talatahari, S. Chaos-enhanced accelerated particle swarm optimization. Communications in Nonlinear Science and Numerical Simulation2013,18,
  327–340.
 
