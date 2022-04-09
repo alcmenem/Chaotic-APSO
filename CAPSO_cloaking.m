@@ -20,7 +20,7 @@
 % [3] Rao, S. S. (2019). Engineering optimization: theory and practice. John Wiley & Sons.
 % ======================================================== %
 function [fmin,best]=capso_ndim_demo(n, Num_iterations)
-clear;
+clear all;
 clc;
 % n=number of particles
 % Num_iterations=total number of iterations
