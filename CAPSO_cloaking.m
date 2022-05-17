@@ -61,7 +61,7 @@ cycles = 5;
 final = zeros(cycles,3.*(N-1) +1);
 %--------------------------------------------------------------------
 % Setting the parameters: alpha, beta
-beta=0.7;  alpha=100;
+beta=0.7;  alpha=10;
 gamma=(10^(-20)/alpha)^(1/Num_iterations);
 
 %keeping history is optional
