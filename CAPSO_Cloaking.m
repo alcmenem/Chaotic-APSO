@@ -217,7 +217,7 @@ end
 function [fmin,xo]=findmin(xn,N)
 fmin=10^10;
 for j=1:size(xn,1)
-   fnew=fobj_exp(xn(j,:),N);
+   fnew=fobj_expt(xn(j,:),N);
    if fnew<fmin
        fmin=fnew;
        xo=xn(j,:);
