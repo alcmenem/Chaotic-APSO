@@ -115,11 +115,11 @@ for cycle = 1:cycles
         if S(1,:) < 0.000001
             disp("This cycle closes due to reaching standard deviation standards as convergence");
             sflag = true;
-            final(cycle,1:nd)= cxo; final(cycle,end)=fobj_expt(cxo,N); %use fbest to avoid extra calc
+            final(cycle,1:nd)= cxo; final(cycle,end)=fobj_expt(cxo,N); 
         end
         %check if reached the end of iterations for this cycle
         if i==Num_iterations
-            final(cycle,1:nd)= cxo; final(cycle,end)=fobj_expt(cxo,N); %use fbest to avoid extra calc
+            final(cycle,1:nd)= cxo; final(cycle,end)=fobj_expt(cxo,N); 
         end
     i = i +1;
     end   %%%%% end of iterations
