@@ -244,8 +244,8 @@ update = sin(pi.*beta);
 end
 %Sinusoidal Map
 function [update] = sinusoidal(beta)
-%set a as varius numbers between 1 and 3
-a = 2.1
+%set a as various nums but 2.3 is good
+a = 2.3
 update = (a).*(beta.^2).*sin(pi.*beta);
 end
 %Singer Map
