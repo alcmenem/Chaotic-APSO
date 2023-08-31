@@ -173,7 +173,7 @@ function s =simplebounds(s,Lb,Ub,N)
           flag = true;
       end
   end
-  if r(1,end)<= (2.*pi) %VERY IMPORTANT, this has to refer to the core we chose.
+  if r(1,end)<= (pi) %(2.pi) <=VERY IMPORTANT, this has to refer to the core we chose.
       flag = true;
   end
   if flag
