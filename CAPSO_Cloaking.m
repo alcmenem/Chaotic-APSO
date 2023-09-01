@@ -280,7 +280,7 @@ end
 a(N)= pi;
 %alternative distances of light source
 %r0 = (x).*a(1);
-r0 = 10.*a(N);
+r0 = 10.*a(1);
 %
 %
 er = u(N:2*(N-1));
@@ -315,7 +315,7 @@ end
 a(N)= pi;
 %source of light
 %r0 = (x).*a(1);
-r0 = 10.*a(N);
+r0 = 10.*a(1);
 %
 er = u(N:2*(N-1));
 mr = u((2*(N-1)+1):3*(N-1));
