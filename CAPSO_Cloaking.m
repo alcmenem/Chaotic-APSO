@@ -66,7 +66,6 @@ for cycle = 1:cycles
     %optional messages
     disp('Cycle number');
     disp(cycle);
-    cxo =[]; 
     %It is possible to work with both min/max, it depends on how you handle
     %the obj.function. The min/max default values also depend on the
     %problem.
@@ -115,7 +114,7 @@ for cycle = 1:cycles
         if S(1,:) < 0.000001
             disp("This cycle closes due to reaching standard deviation standards as convergence");
             sflag = true;
-            final(cycle,1:nd)= cxo; final(cycle,end)=fobj_expt(cxo,N); 
+            final(cycle,1:nd)= xo; final(cycle,end)=fobj_expt(xo,N); 
         end
         %check if reached the end of iterations for this cycle
         if i==Num_iterations
