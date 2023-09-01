@@ -119,7 +119,7 @@ for cycle = 1:cycles
         end
         %check if reached the end of iterations for this cycle
         if i==Num_iterations
-            final(cycle,1:nd)= cxo; final(cycle,end)=fobj_expt(cxo,N); 
+            final(cycle,1:nd)= xo; final(cycle,end)=fobj_expt(xo,N); 
         end
     i = i +1;
     end   %%%%% end of iterations
