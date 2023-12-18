@@ -111,7 +111,7 @@ for cycle = 1:cycles
         %optional convergence checks through swarm position standard
         %deviation
         S = std(xn);
-        if S(1,:) < 0.000001
+        if S(1,:) < 0.0000001
             disp("This cycle closes due to reaching standard deviation standards as convergence");
             sflag = true;
             final(cycle,1:nd)= xo; final(cycle,end)=fobj_expt(xo,N); 
