@@ -1,6 +1,9 @@
 Note: A part of this repository is based on Xin-She Yang's uploaded DEMO which is rightfully cited.
-This software is not redistributed or sold.
+This software is not sold in any way shape of form.
 
+XS Yang (2024). Accelerated Particle Swarm Optimization (APSO) (https://www.mathworks.com/matlabcentral/fileexchange/74766-accelerated-particle-swarm-optimization-apso), MATLAB Central File Exchange. Retrieved July 21, 2021.
+
+Xin-She Yang, Nature-Inspired Optimization Algorithms, Elsevier Insights, (2014)
 
 Copyright (c) 2009, Xin-She Yang
 All rights reserved.
@@ -17,6 +20,7 @@ modification, are permitted provided that the following conditions are met:
 * Neither the name of Cambridge University nor the names of its
   contributors may be used to endorse or promote products derived from this
   software without specific prior written permission.
+
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
