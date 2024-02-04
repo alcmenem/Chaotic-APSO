@@ -15,4 +15,6 @@ APSO code and description can also be found in (and the several other editions o
 
 [3] Xin-She Yang, Nature-Inspired Metaheuristic Algorithms, Second Edition, Luniver Press, (2010). www.luniver.com
 
+The license file maintains [2]'s license.
+
 2022 and 2023 Changes: This has been edited and many commented out unused variables and redundant comments have been sorted out. 
