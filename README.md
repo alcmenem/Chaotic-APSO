@@ -7,15 +7,15 @@ The CAPSO algorithm is a proposed variant of the APSO algorithm, and it utilizes
 
 [1] Gandomi, A.H.; Yun, G.J.; Yang, X.S.; Talatahari, S. Chaos-enhanced accelerated particle swarm optimization. Communications in Nonlinear Science and Numerical Simulation 2013,18, 327–340.
 
-The code is built upon XS Yang's APSO demo available at (given the github upload date):
+The code is built on:
 
 [2] XS Yang (2021). Accelerated Particle Swarm Optimization (APSO) (https://www.mathworks.com/matlabcentral/fileexchange/74766-accelerated-particle-swarm-optimization-apso), MATLAB Central File Exchange. Retrieved July 21, 2021.
 
 [3]Xin-She Yang, Nature-Inspired Optimization Algorithms, Elsevier Insights, (2014)
 
-APSO code and description can also be found in (and the several other editions of this book):
+Another Yang book we recommend:
 
-[3] Xin-She Yang, Nature-Inspired Metaheuristic Algorithms, Second Edition, Luniver Press, (2010). www.luniver.com
+[4] Xin-She Yang, Nature-Inspired Metaheuristic Algorithms, Second Edition, Luniver Press, (2010). www.luniver.com
 
 The license file maintains [2]'s license.
 
